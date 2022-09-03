@@ -1,4 +1,4 @@
-# Welcome to my Portfolio
+# Welcome to my Portfolio!
 
 ## Data Analyst
 [<img width="130" height="150" src="images/about_me.png?raw=true">](about_me.md)  --> [<img width="130" height="150" src="images/project.png?raw=true">](projects)     
