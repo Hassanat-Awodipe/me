@@ -12,6 +12,6 @@ title: <a href="https://www.linkedin.com/in/hassanatawodipe/">Hassanat Oluwatobi
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I work with data to translate them into valuable insights which aids decision making. My core processes are data wrangling and exploration then sharing my results as engaging and compelling visuals.
 
-remote_theme: jekyll-theme-denky
+remote_theme: pages-themes/dinky@v0.2.0
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
