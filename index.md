@@ -1,33 +1,8 @@
-## Portfolio
+## Welcome to my Portfolio
 
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+### Data Analyst
+[<img width="130" height="150" src="images/about_me.png?raw=true">](about_me.md)  --> [<img width="130" height="150" src="images/project.png?raw=true">](project.md)     
+[<img width="130" height="150" src="images/blog_icon.png?raw=true">](blog.md) --> [<img width="130" height="150" src="images/qualification.jpg?raw=true">](qualifications.md)
 
 
 ---
