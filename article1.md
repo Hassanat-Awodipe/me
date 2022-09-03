@@ -4,15 +4,15 @@
 
 > I did not know table of content could be added to a Jupyter Notebook unitl I started the Udacity Nanodegree and had to do some projects. The second project turned out to be a really long notebook so, my reviewer suggested I added a TOC.
 >
-> The previous project had a TOC so I just copied, pasted and edited accordingly but there was a limitation; my current project had several sub-sections. The TOC was designed such that the link to the section was embedded in the section name. For example, if you clicked `Conclusion`, it would take you directly to `Conclusion`. When I tried this with the *copy and paste template*, the links in the sub-sections redirected to the main section. That method only worked for the main topics.
+> The previous project had a TOC so I just copied, pasted and edited accordingly but there was a limitation; my current project had several sub-sections. The TOC was designed such that the link to the section was embedded in the section name. For example, if you clicked `Conclusion`, it would take you directly to `Conclusion`. When I tried this with the `copy and paste template`, the links in the sub-sections redirected to the main section. That method only worked for the main topics.
 > 
 > Here is what I did: I had to learn a bit of html, at least the amount useful for Markdown cells. I will explain this using the first section in the image above which was taken from my Jupyter noebook.
 > 
-> * The `<a></a>` tag defines a hyperlink
-> * href="#Data-Gathering" refers to the link destination
-> * `Data Gathering` is what you get to see i.e the statement in which the link is embedded or the link text.
+> * The `<a></a>` tag defines a **hyperlink**
+> * href="#Data-Gathering" refers to the link destination. It is an **attribute** of the `a` tag 
+> * `Data Gathering` is what you get to see i.e the statement in which the link is embedded or the **link text**.
 >        
-> You may check the image to understand the **hyperlink** and **link text** better 
+> You may check the image to understand the hyperlink and link text better 
   
 ```
 # Table of Content
@@ -57,11 +57,11 @@
 <a name="From-a-CSV-File"></a>
 ```
 
-> The tags for the main section and the sub-section are different. 
+> The attributes for the main section and the sub-section are different. 
 > 
 > While the main section (data gathering) used `<a id="optparam"></a>`, the sub-section (From a CSV File) used `<a name="sub-section-name"></a>` and it included the name of the subsection. Spaces in the link destination are reprsented with (-). 
 > 
-> The tag for all the main sections were the same but not the sub-section. The difference was with the name of the sub section
+> The tag, attribute and link destination for all the main sections were the same but not the sub-sections. The difference was with the name of the sub section
 
 
 ---
