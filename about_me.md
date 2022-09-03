@@ -1,7 +1,7 @@
-not available for download
+## In Progress
 
 
-attach image CV 
+attach CV image
 
 
-attach image cover letter. 
+attach cover letter image
