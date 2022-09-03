@@ -63,13 +63,13 @@
 > 
 > Note that the tag, attribute and link destination for all the main sections were the same but not the sub-sections. The difference was with the name of the sub-section
 
-##### Now, go forth and make your Notebook as structured as possible!
+##### Now, go forth and make your Notebook as structured as possible! 
+
 
 
 ---
 
-Side Note: I also learnt that you could add two space bar at the end of your cuurent line to take the cursor to the next line.
-
+Side Note: I also learnt that you could press the space bar twice at the end of your current line to take the cursor to the next line. If you want to learn more about html, you may check [here](https://www.w3schools.com/html/html_links.asp)
 
 
 
