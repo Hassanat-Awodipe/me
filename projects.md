@@ -1,5 +1,5 @@
 
-# Welcome to my Portfolio of Data Projects!
+# My Data Projects!
 
 ## World's GDP Exploration
 
