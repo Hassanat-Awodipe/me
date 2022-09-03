@@ -26,6 +26,6 @@ Top5 Dog breeds by Mean Retweets and Favourites
 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The aim of this analysis is to display my proficiency in Data Wrangling by gathering the data of WeRateDogs from multiple sources and in different file formats, assessing for quality and tidiness issues then cleaning. After wrangling, I analysed the data to understand how twitter users react to the tweets of WeRateDogs. The result of the analysis - carried out with Python - can be found [here](/Project2/Analysis_of_WeRateDogs_Tweet-Report.html). 
 
-You can click [here](Analysis_of_WeRateDogs_Tweet_Code.html) for the wrangling process done in python. 
+You can click [here](/Project2/Analysis_of_WeRateDogs_Tweet_Code.html) for the wrangling process done in python. 
 
 
