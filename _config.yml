@@ -1,17 +1,7 @@
-# title: John Doe # your name (or website title) here
-# logo: "/images/logo.png?raw=true" # your photo (or logo) here
-# description: > # your text below (remove <br> elements if you don't need line breaks)
-#   First description 
-#   <br><br>
-#   Second description 
-#   <br><br>
-#   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
 title: <a href="https://www.linkedin.com/in/hassanatawodipe/">Hassanat Oluwatobi Awodipe</a>  # your name (or website title) here
 # logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I work with data to translate them into valuable insights which aids decision making. My core processes are data wrangling and exploration then sharing my results as engaging and compelling visuals.
 
-remote_theme: pages-themes/dinky@v0.2.0
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
