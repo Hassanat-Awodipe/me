@@ -59,9 +59,11 @@
 
 > The attributes for the main section and the sub-section are different. 
 > 
-> While the main section (data gathering) used `<a id="optparam"></a>`, the sub-section (From a CSV File) used `<a name="sub-section-name"></a>` and it included the name of the subsection. Spaces in the link destination are reprsented with (-). 
+> While the main section (data gathering) used `<a id="optparam"></a>`, the sub-section (From a CSV File) used `<a name="sub-section-name"></a>` and it included the name of the sub-section. Spaces in the link destination were represented with (-). 
 > 
-> The tag, attribute and link destination for all the main sections were the same but not the sub-sections. The difference was with the name of the sub section
+> Note that the tag, attribute and link destination for all the main sections were the same but not the sub-sections. The difference was with the name of the sub-section
+
+##### Now, go forth and make your Notebook as structured as possible!
 
 
 ---
