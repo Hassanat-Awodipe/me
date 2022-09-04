@@ -7,9 +7,9 @@
 
 <img src="images/data_analysis_R.png?raw=true"/> 
 
-<img src="images/share_data.png?raw=true"/> 
-
 <img src="images/nano_cert.png?raw=true"/> 
+
+<img src="images/share_data.png?raw=true"/> 
 
 <img src="images/analyze_data.png?raw=true"/> 
 
@@ -25,7 +25,7 @@
 
 <img src="images/data_modeling.png?raw=true"/> 
 
-<img src="images/matplotlib_cert.png.png?raw=true"/>
+<img src="images/matplotlib_cert.png?raw=true"/>
 
 <img src="images/numpy_cert.png?raw=true"/> 
 
