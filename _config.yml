@@ -5,4 +5,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 remote_theme: pages-themes/dinky@v0.2.0
 # theme: jekyll-theme-minimal
+show_downloads: [true]
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
