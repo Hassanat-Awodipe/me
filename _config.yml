@@ -1,8 +1,8 @@
 title: <a href="https://www.linkedin.com/in/hassanatawodipe/">Hassanat Oluwatobi Awodipe</a>  # your name (or website title) here
-#logo: "/images/Hassanat_Awodipe.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I work with data to translate them into valuable insights which aids decision making. My core processes are data wrangling and exploration then sharing my results as engaging and compelling visuals.
+#logo: "/images/Hassanat_Awodipe.jpg?raw=true" # your photo (or logo) here I work with data to translate them into valuable insights which aids decision making. My core processes are data wrangling and exploration then sharing my results as engaging and compelling visuals.
 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Asides from making my own dresses so I can be the best dressed person in the room, I also enjoy working with data to translate them into valuable insights which aids decision making. My core processes are data wrangling and exploration then sharing my results with engaging and compelling visuals.
 remote_theme: pages-themes/dinky@v0.2.0
 # theme: jekyll-theme-minimal
 show_downloads: [true]
