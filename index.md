@@ -6,7 +6,7 @@
 
 
 
-#### Contact me  
+#### Contact me:  
 [My Email](mailto:arsana.awodipe@gmail.com)  
 [My LinkedIn](https://www.linkedin.com/in/hassanatawodipe/)  
 
