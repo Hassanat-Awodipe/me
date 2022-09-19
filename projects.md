@@ -9,7 +9,7 @@ The World's GDP is affected by a variety of economic factors. I examined these f
 
 The full exploration can be found [here](/Project1/World_GDP_Analysis_code.html)
 
----
+
 ## Parch and Posey Paper Sales Dashboard
 
 <img src="images/P&P_northeast.png?raw=true"/>
@@ -19,7 +19,8 @@ Parch and Posey is a company that deals with the sale of paper. In this analysis
 
 The full analysis can be found [here](https://github.com/Hassanat-Awodipe/Power_BI--Parch_and_Posey_Sales_Data)
 
-## Analysis of WeRateDogs's Tweets
+
+## Analysis of @WeRateDogs's Tweets
 
 <img src="images/retweet_fav_dogs.png?raw=true"/>
 Top5 Dog breeds by Mean Retweets and Favourites
@@ -28,4 +29,14 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 
 You can click [here](/Project2/Analysis_of_WeRateDogs_Tweet_Code.html) for the wrangling process done in python. 
 
+
+** In Progress
+## Analysis of European Soccer Players' Ratings
+
+<img src="images/ratings.png?raw=true"/>
+Comparison of Potential and Overall Ratings
+
+WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The aim of this analysis is to display my proficiency in Data Wrangling by gathering the data of WeRateDogs from multiple sources and in different file formats, assessing for quality and tidiness issues then cleaning. After wrangling, I analysed the data to understand how twitter users react to the tweets of WeRateDogs. The result of the analysis - carried out with Python - can be found [here](/Project2/Analysis_of_WeRateDogs_Tweet-Report.html). 
+
+You can click [here](/Project2/Analysis_of_WeRateDogs_Tweet_Code.html) for the wrangling process done in python. 
 
