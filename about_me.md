@@ -13,4 +13,10 @@ In addition, I have completed professional courses such as the Google Data Analy
 
 
 
-<p> This a full version of my <a href="https://docs.google.com/document/d/e/2PACX-1vSszLjcp8_w4UD9Ho1NMChPnFKA0ggbK_mgKJy_ftnVxaD6-3Qkxqu7kvX4HDkUftZpeV3VGfGq-2Lf/pub"> Resume </a></p>
+![image](https://user-images.githubusercontent.com/45914807/191265216-7f2a3de0-c504-4d81-9e95-89df930c34d2.png)
+![image](https://user-images.githubusercontent.com/45914807/191265459-64bbd97b-8ded-471c-99c0-feeae6d861a9.png)
+![image](https://user-images.githubusercontent.com/45914807/191265560-815ccb9f-a0be-404c-8a20-f25659872d23.png)
+![image](https://user-images.githubusercontent.com/45914807/191265758-bd0a1139-4f1b-488b-acc6-35851bcd5138.png)
+
+
+
