@@ -1,5 +1,5 @@
 ## In Progress  
-*Updated: 16.09.2021* 
+*Updated: 20.09.2021* 
 
 I wouldn’t call myself a multi-talented person but over the last twenty years of my life, I have been interested in so many different and maybe contrasting things. I have been a writer, reader, baker, tailor, make-up artist, social-media manager and most recently, a data analyst. And even when I started with data analytics, I did not intend to go into AI and ML but now, I am finding that interesting too. My defense is that I am allowed to figure out what I  want to do with the rest of my life while in my twenties. And you would agree that I have definitely looked into a lot of options.
 
