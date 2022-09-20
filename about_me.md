@@ -13,5 +13,6 @@ In addition, I have completed professional courses such as the Google Data Analy
 
 
 attach CV image
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSszLjcp8_w4UD9Ho1NMChPnFKA0ggbK_mgKJy_ftnVxaD6-3Qkxqu7kvX4HDkUftZpeV3VGfGq-2Lf/pub?embedded=true"></iframe>
+<p> This a full version of my <a href="https://docs.google.com/document/d/e/2PACX-1vSszLjcp8_w4UD9Ho1NMChPnFKA0ggbK_mgKJy_ftnVxaD6-3Qkxqu7kvX4HDkUftZpeV3VGfGq-2Lf/pub?embedded=true"> CV </a></p>
