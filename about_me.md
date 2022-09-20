@@ -11,6 +11,6 @@ Passionate about data and being proactive, I assigned myself a project for a pap
 
 In addition, I have completed professional courses such as the Google Data Analytics Specialisation which included extensive coursework on R and Tableau, and the Udacity Data Analyst Nanodegree which included data exploration, data wrangling and data visualisation projects with Python. By taking these courses concurrently for three months, I got skilled at handling multiple tasks and prioritising deadlines while enhancing my skills to recommend data-based business decisions.
 
-[here](https://docs.google.com/document/d/1__W87L9VibaTORltMhjpbk7UTUyMi29PAlKwY83FpRg/edit?usp=sharing)
+You may view my full CV [here](https://docs.google.com/document/d/1__W87L9VibaTORltMhjpbk7UTUyMi29PAlKwY83FpRg/edit?usp=sharing)
 
 
