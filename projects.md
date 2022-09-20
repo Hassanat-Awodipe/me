@@ -36,7 +36,7 @@ You can click [here](/Project2/Analysis_of_WeRateDogs_Tweet_Code.html) for the w
 <img src="images/ratings.png?raw=true"/>
 Comparison of Potential and Overall Ratings
 
-Working with a database of European Soccer collected over a period of 9 years (2007 - 2016), I analysed the data to find out how players' attributes affect their overall and potential ratings for the year 2016. I also checked the rate at which the footballers met up to their potential. I used Python for my analysis and the notebook can be found [here](/Project3/Analysis_of_WeRateDogs_Tweet-Report.html). 
+Working with a database of European Soccer collected over a period of 9 years (2007 - 2016), I analysed the data to find out how players' attributes affect their overall and potential ratings for the year 2016. I also checked the rate at which the footballers met up to their potential. I used Python for my analysis and the notebook can be found [here](/Project3/Analysis_of_Football_Players_Rating_in_2016.html). 
 
 The github repository can be found [here](https://github.com/Hassanat-Awodipe/Analysis_of_Football_Players_Rating_in_2016). 
 
