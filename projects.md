@@ -42,6 +42,7 @@ The github repository can be found [here](https://github.com/Hassanat-Awodipe/An
 
 
 ## Employee Attrition Dashboard
-
-
+																
+![image](https://user-images.githubusercontent.com/45914807/192877690-0c82c62b-76f5-4f14-9065-839211a41ecd.png)
+When attrition rate = 0
 
