@@ -1,4 +1,4 @@
-# Employee-Attrition-Dashboard
+# Employee Attrition Dashboard
 
 
 ## INTRODUCTION									
@@ -29,7 +29,7 @@ To examine the rate of attrition of the employees based on their personal lives 
 
 ------
 
-## Conclusion								
+## CONCLUSION								
 								
 The dashboard was been designed so that the data can be viewed based on the employees' personal details. Several charts were explored depending on the kind of data being analysed. There are slicers to compare how two or more factors affect the attrition.	
 							
