@@ -46,3 +46,4 @@ The github repository can be found [here](https://github.com/Hassanat-Awodipe/An
 ![image](https://user-images.githubusercontent.com/45914807/192877690-0c82c62b-76f5-4f14-9065-839211a41ecd.png)
 When attrition rate = 0
 
+I analysed survey responses from employees in a given company to determine the nature of staff that leave or stay in the company over a period of time. Attrition rate is used to measure the loss of employee. The rate is determined by comparing the vacant spaces to the total workforce available at a point in time. Attrition of 1 says that the employee left the company while 0 says otherwise. The entires analysis was done in MS Excel.
