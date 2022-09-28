@@ -2,9 +2,7 @@
 
 
 ## INTRODUCTION									
-The dataset was gotten from https://dphi.tech/challenges/177/data 									
-PowerQuery was used to split the CSV file into columns then loaded into the spreadsheet.									
-									
+
 The dataset was compiled from a survey of  employees to determine the nature of staff that leave or stay in the company over a period of time. There are 1177 rows and 35 columns. 									
 Attrition rate is used to measure the loss of employee. The rate is determined by comparing the vacant spaces to the total workforce available at a point in time.  									
 Attrition of 1 says that the employee left the company while 0 says otherwise.		
