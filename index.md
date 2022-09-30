@@ -9,7 +9,7 @@
 #### Contact me:  
 [My Email](mailto:arsana.awodipe@gmail.com)  
 [My LinkedIn](https://www.linkedin.com/in/hassanatawodipe/)  
-
+[My Tableau Page](https://public.tableau.com/app/profile/hassanat.awodipe)
 
 
 
