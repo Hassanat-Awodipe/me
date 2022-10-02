@@ -1,6 +1,8 @@
 # Achievements
 ### I am always on the lookout to develop my current skills because if I stay learning, I stay winning! So, here is a list of the certified courses I have completed since I started my data analytics journey: 
 
+<img src="images/cfg_cert.png?raw=true"/>
+
 <img src="images/google_cert.png?raw=true"/>
 
 <img src="images/Capstone_project.png?raw=true"/>
