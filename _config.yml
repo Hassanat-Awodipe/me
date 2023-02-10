@@ -1,13 +1,5 @@
 title: <a href="https://www.linkedin.com/in/hassanatawodipe/">Hassanat Oluwatobi Awodipe</a>  # your name (or website title) here
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X7QSK1HZ33"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-X7QSK1HZ33');
-</script>
 #logo: "/images/Hassanat_Awodipe.jpg?raw=true" # your photo (or logo) here I work with data to translate them into valuable insights which aids decision making. My core processes are data wrangling and exploration then sharing my results as engaging and compelling visuals.
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
