@@ -1,7 +1,5 @@
 # Research
 
-As a joint reseacrh, my teammate and I analysed the network of the European automotive industry. 
-
 As part of my evaluation for the Business Law course, I conducted research on the ethical dilemmas of advanced technology. My focus was on the rapid development of Artificial Intelligence (AI) and the challenges it presents.
 ##### [Ethical Dilemma of Advanced Technology: AI Associated Risks](/blog_posts/AI_Associated_Risks.pdf)
 
