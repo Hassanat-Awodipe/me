@@ -1,8 +1,8 @@
 # Research
 
-As part of the evaluation for a Business Law course, I conducted research on the ethical dilemmas of advanced technology. My focus was on the rapid development of Artificial Intelligence (AI) and the challenges it presents.
+As part of my master's degree, I conducted research on several topics, both independently and collaboratively. Below are some examples of my work. 
 ##### [Ethical Dilemma of Advanced Technology: AI Associated Risks](/blog_posts/AI_Associated_Risks.pdf)
-
+##### [Google-Knowing](/blog_posts/Google-knowing_essay.pdf)
 
 # Articles 
 
