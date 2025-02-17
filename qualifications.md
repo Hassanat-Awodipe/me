@@ -7,6 +7,8 @@
 
 <img src="images/Capstone_project.png?raw=true"/>
 
+<img src="images/SAP_cert.png?raw=true"/>
+
 <img src="images/data_analysis_R.png?raw=true"/> 
 
 <img src="images/nano_cert.png?raw=true"/> 
