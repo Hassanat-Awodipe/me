@@ -1,0 +1,79 @@
+Excel Matrix name: B60C-tyres -orgXorg.xlsx
+Directed: False
+Weighted: True
+Connected: False
+Self-links: False
+
+Size: 124
+
+Absolute Density: 121
+
+Normalized Density: 1.59%
+
+Value Of Network Links: 2230.00
+
+Disconnectedness Degree: 0.00
+
+Average Degree Centrality Binary: 0.976
+
+Average Degree Centrality Valued: 17.984
+
+Average Link Weight: 18.430
+
+Global Clustering Coefficient: 0.754
+
+Assortativity Binary:
+	IN-IN		-0.173
+	IN-OUT		-0.173
+	OUT-IN		-0.173
+	OUT-OUT		-0.173
+
+Assortativity Valued:
+	IN-IN		-0.133
+	IN-OUT		-0.133
+	OUT-IN		-0.133
+	OUT-OUT		-0.133
+
+Snijder's Centralization:
+	J		0.066
+	H 		0.033
+
+Triadic Census:
+'003'	: 295872
+'012'	: 0
+'102'	: 13775
+'021D'	: 0
+'021U'	: 0
+'021C'	: 0
+'111D'	: 0
+'111U'	: 0
+'030T'	: 0
+'030C'	: 0
+'201'	: 444
+'120D'	: 0
+'120U'	: 0
+'120C'	: 0
+'210'	: 0
+'300'	: 33
+
+Degree Centralization Binary Absolute: 3106.000
+
+Degree Centralization Binary Normalized: 0.205
+
+Degree Centralization Weighted Absolute: 187368.000
+
+Degree Centralization Weighted Normalized: 0.008
+
+Betweenness Centralization: 0.045
+
+Betweenness Centralization Weighted: 0.044
+
+Closeness Centralization: 0.359
+
+Eigenvector Centralization: 0.602
+
+Eigenvector Centralization Weighted: N/A
+
+Connected Components count (including isolated nodes): 32
+
+Elapsed time: 0:00:00.305768

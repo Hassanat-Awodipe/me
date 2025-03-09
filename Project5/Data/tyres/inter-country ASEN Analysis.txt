@@ -1,0 +1,79 @@
+Excel Matrix name: new_tyres_ctry.xlsx
+Directed: False
+Weighted: True
+Connected: False
+Self-links: True
+
+Size: 21
+
+Absolute Density: 32
+
+Normalized Density: 15.24%
+
+Value Of Network Links: 86.00
+
+Disconnectedness Degree: 0.01
+
+Average Degree Centrality Binary: 1.524
+
+Average Degree Centrality Valued: 4.095
+
+Average Link Weight: 2.688
+
+Global Clustering Coefficient: 0.533
+
+Assortativity Binary:
+	IN-IN		-0.349
+	IN-OUT		-0.349
+	OUT-IN		-0.349
+	OUT-OUT		-0.349
+
+Assortativity Valued:
+	IN-IN		-0.162
+	IN-OUT		-0.162
+	OUT-IN		-0.162
+	OUT-OUT		-0.162
+
+Snijder's Centralization:
+	J		0.480
+	H 		0.316
+
+Triadic Census:
+'003'	: 952
+'012'	: 0
+'102'	: 289
+'021D'	: 0
+'021U'	: 0
+'021C'	: 0
+'111D'	: 0
+'111U'	: 0
+'030T'	: 0
+'030C'	: 0
+'201'	: 81
+'120D'	: 0
+'120U'	: 0
+'120C'	: 0
+'210'	: 0
+'300'	: 8
+
+Degree Centralization Binary Absolute: 209.000
+
+Degree Centralization Binary Normalized: 0.522
+
+Degree Centralization Weighted Absolute: 668.000
+
+Degree Centralization Weighted Normalized: 0.083
+
+Betweenness Centralization: 0.485
+
+Betweenness Centralization Weighted: 0.497
+
+Closeness Centralization: 0.584
+
+Eigenvector Centralization: 0.395
+
+Eigenvector Centralization Weighted: 1.000
+
+Connected Components count (including isolated nodes): 4
+
+Elapsed time: 0:00:00.047356

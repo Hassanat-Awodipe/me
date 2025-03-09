@@ -1,0 +1,79 @@
+Excel Matrix name: B60K-propulsion or transmission - orgXorg.xlsx
+Directed: False
+Weighted: True
+Connected: False
+Self-links: False
+
+Size: 263
+
+Absolute Density: 220
+
+Normalized Density: 0.64%
+
+Value Of Network Links: 915.00
+
+Disconnectedness Degree: 0.00
+
+Average Degree Centrality Binary: 0.837
+
+Average Degree Centrality Valued: 3.479
+
+Average Link Weight: 4.159
+
+Global Clustering Coefficient: 0.507
+
+Assortativity Binary:
+	IN-IN		0.014
+	IN-OUT		0.014
+	OUT-IN		0.014
+	OUT-OUT		0.014
+
+Assortativity Valued:
+	IN-IN		0.137
+	IN-OUT		0.137
+	OUT-IN		0.137
+	OUT-OUT		0.137
+
+Snijder's Centralization:
+	J		0.018
+	H 		0.003
+
+Triadic Census:
+'003'	: 2940405
+'012'	: 0
+'102'	: 56626
+'021D'	: 0
+'021U'	: 0
+'021C'	: 0
+'111D'	: 0
+'111U'	: 0
+'030T'	: 0
+'030C'	: 0
+'201'	: 346
+'120D'	: 0
+'120U'	: 0
+'120C'	: 0
+'210'	: 0
+'300'	: 34
+
+Degree Centralization Binary Absolute: 1927.000
+
+Degree Centralization Binary Normalized: 0.028
+
+Degree Centralization Weighted Absolute: 43932.000
+
+Degree Centralization Weighted Normalized: 0.004
+
+Betweenness Centralization: 0.026
+
+Betweenness Centralization Weighted: 0.025
+
+Closeness Centralization: 0.128
+
+Eigenvector Centralization: 0.460
+
+Eigenvector Centralization Weighted: 0.704
+
+Connected Components count (including isolated nodes): 74
+
+Elapsed time: 0:00:00.705413

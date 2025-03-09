@@ -1,0 +1,79 @@
+Excel Matrix name: tyres_industry_net.xlsx
+Directed: False
+Weighted: True
+Connected: False
+Self-links: True
+
+Size: 29
+
+Absolute Density: 57
+
+Normalized Density: 14.04%
+
+Value Of Network Links: 1939.00
+
+Disconnectedness Degree: 0.00
+
+Average Degree Centrality Binary: 1.966
+
+Average Degree Centrality Valued: 66.862
+
+Average Link Weight: 34.018
+
+Global Clustering Coefficient: 0.485
+
+Assortativity Binary:
+	IN-IN		-0.228
+	IN-OUT		-0.228
+	OUT-IN		-0.228
+	OUT-OUT		-0.228
+
+Assortativity Valued:
+	IN-IN		-0.143
+	IN-OUT		-0.143
+	OUT-IN		-0.143
+	OUT-OUT		-0.143
+
+Snijder's Centralization:
+	J		0.409
+	H 		0.264
+
+Triadic Census:
+'003'	: 2553
+'012'	: 0
+'102'	: 883
+'021D'	: 0
+'021U'	: 0
+'021C'	: 0
+'111D'	: 0
+'111U'	: 0
+'030T'	: 0
+'030C'	: 0
+'201'	: 187
+'120D'	: 0
+'120U'	: 0
+'120C'	: 0
+'210'	: 0
+'300'	: 31
+
+Degree Centralization Binary Absolute: 350.000
+
+Degree Centralization Binary Normalized: 0.446
+
+Degree Centralization Weighted Absolute: 41623.000
+
+Degree Centralization Weighted Normalized: 0.036
+
+Betweenness Centralization: 0.491
+
+Betweenness Centralization Weighted: 0.495
+
+Closeness Centralization: 0.559
+
+Eigenvector Centralization: 0.311
+
+Eigenvector Centralization Weighted: N/A
+
+Connected Components count (including isolated nodes): 2
+
+Elapsed time: 0:00:00.363283

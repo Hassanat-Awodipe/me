@@ -1,0 +1,79 @@
+Excel Matrix name: inter-country.xlsx
+Directed: False
+Weighted: True
+Connected: False
+Self-links: True
+
+Size: 28
+
+Absolute Density: 68
+
+Normalized Density: 17.99%
+
+Value Of Network Links: 1129.00
+
+Disconnectedness Degree: 0.00
+
+Average Degree Centrality Binary: 2.429
+
+Average Degree Centrality Valued: 40.321
+
+Average Link Weight: 16.603
+
+Global Clustering Coefficient: 0.498
+
+Assortativity Binary:
+	IN-IN		-0.339
+	IN-OUT		-0.339
+	OUT-IN		-0.339
+	OUT-OUT		-0.339
+
+Assortativity Valued:
+	IN-IN		-0.213
+	IN-OUT		-0.213
+	OUT-IN		-0.213
+	OUT-OUT		-0.213
+
+Snijder's Centralization:
+	J		0.513
+	H 		0.373
+
+Triadic Census:
+'003'	: 2257
+'012'	: 0
+'102'	: 719
+'021D'	: 0
+'021U'	: 0
+'021C'	: 0
+'111D'	: 0
+'111U'	: 0
+'030T'	: 0
+'030C'	: 0
+'201'	: 267
+'120D'	: 0
+'120U'	: 0
+'120C'	: 0
+'210'	: 0
+'300'	: 33
+
+Degree Centralization Binary Absolute: 452.000
+
+Degree Centralization Binary Normalized: 0.620
+
+Degree Centralization Weighted Absolute: 24678.000
+
+Degree Centralization Weighted Normalized: 0.102
+
+Betweenness Centralization: 0.529
+
+Betweenness Centralization Weighted: 0.466
+
+Closeness Centralization: 0.657
+
+Eigenvector Centralization: 0.365
+
+Eigenvector Centralization Weighted: 0.873
+
+Connected Components count (including isolated nodes): 2
+
+Elapsed time: 0:00:00.048943

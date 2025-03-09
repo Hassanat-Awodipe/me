@@ -1,0 +1,79 @@
+Excel Matrix name: main_comp_tyres.xlsx
+Directed: False
+Weighted: True
+Connected: True
+Self-links: False
+
+Size: 29
+
+Absolute Density: 44
+
+Normalized Density: 10.84%
+
+Value Of Network Links: 1625.00
+
+Disconnectedness Degree: 0.00
+
+Average Degree Centrality Binary: 1.517
+
+Average Degree Centrality Valued: 56.034
+
+Average Link Weight: 36.932
+
+Global Clustering Coefficient: 0.911
+
+Assortativity Binary:
+	IN-IN		-0.581
+	IN-OUT		-0.581
+	OUT-IN		-0.581
+	OUT-OUT		-0.581
+
+Assortativity Valued:
+	IN-IN		-0.642
+	IN-OUT		-0.642
+	OUT-IN		-0.642
+	OUT-OUT		-0.642
+
+Snijder's Centralization:
+	J		0.536
+	H 		0.437
+
+Triadic Census:
+'003'	: 2874
+'012'	: 0
+'102'	: 390
+'021D'	: 0
+'021U'	: 0
+'021C'	: 0
+'111D'	: 0
+'111U'	: 0
+'030T'	: 0
+'030C'	: 0
+'201'	: 372
+'120D'	: 0
+'120U'	: 0
+'120C'	: 0
+'210'	: 0
+'300'	: 18
+
+Degree Centralization Binary Absolute: 695.000
+
+Degree Centralization Binary Normalized: 0.886
+
+Degree Centralization Weighted Absolute: 41613.000
+
+Degree Centralization Weighted Normalized: 0.036
+
+Betweenness Centralization: 0.893
+
+Betweenness Centralization Weighted: 0.864
+
+Closeness Centralization: 0.927
+
+Eigenvector Centralization: 0.495
+
+Eigenvector Centralization Weighted: N/A
+
+Connected Components count (including isolated nodes): 1
+
+Elapsed time: 0:00:00.135903

@@ -1,0 +1,79 @@
+Excel Matrix name: new_prop_ind.xlsx
+Directed: False
+Weighted: True
+Connected: False
+Self-links: True
+
+Size: 35
+
+Absolute Density: 73
+
+Normalized Density: 12.27%
+
+Value Of Network Links: 238.00
+
+Disconnectedness Degree: 0.00
+
+Average Degree Centrality Binary: 2.086
+
+Average Degree Centrality Valued: 6.800
+
+Average Link Weight: 3.260
+
+Global Clustering Coefficient: 0.444
+
+Assortativity Binary:
+	IN-IN		-0.225
+	IN-OUT		-0.225
+	OUT-IN		-0.225
+	OUT-OUT		-0.225
+
+Assortativity Valued:
+	IN-IN		-0.192
+	IN-OUT		-0.192
+	OUT-IN		-0.192
+	OUT-OUT		-0.192
+
+Snijder's Centralization:
+	J		0.383
+	H 		0.256
+
+Triadic Census:
+'003'	: 4751
+'012'	: 0
+'102'	: 1447
+'021D'	: 0
+'021U'	: 0
+'021C'	: 0
+'111D'	: 0
+'111U'	: 0
+'030T'	: 0
+'030C'	: 0
+'201'	: 310
+'120D'	: 0
+'120U'	: 0
+'120C'	: 0
+'210'	: 0
+'300'	: 37
+
+Degree Centralization Binary Absolute: 554.000
+
+Degree Centralization Binary Normalized: 0.479
+
+Degree Centralization Weighted Absolute: 1869.000
+
+Degree Centralization Weighted Normalized: 0.085
+
+Betweenness Centralization: 0.380
+
+Betweenness Centralization Weighted: 0.455
+
+Closeness Centralization: 0.533
+
+Eigenvector Centralization: 0.399
+
+Eigenvector Centralization Weighted: 0.356
+
+Connected Components count (including isolated nodes): 2
+
+Elapsed time: 0:00:00.087428
