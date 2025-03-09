@@ -1,0 +1,1 @@
+This project analyses the European automotive industry, with a focus on patents. The automotive industry is renowned for its technological innovation and intense competition, where product differentiation plays a crucial role in driving sales.
