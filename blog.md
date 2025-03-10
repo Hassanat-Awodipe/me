@@ -3,6 +3,8 @@
 As part of my master's degree, I conducted research on several topics, both independently and collaboratively. Below are some examples of my work. 
 ##### [Ethical Dilemma of Advanced Technology: AI Associated Risks](/blog_posts/AI_Associated_Risks.pdf)
 ##### [Google-Knowing](/blog_posts/Google-knowing_essay.pdf)
+##### [Automotive Industry Network Analysis](/blog_posts/Automotive_industry-Network_Analysis_upload.pdf)
+
 
 # Articles 
 
