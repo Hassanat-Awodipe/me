@@ -1,6 +1,7 @@
 # Research
 
 As part of my master's degree, I conducted research on several topics, both independently and collaboratively. Below are some examples of my work. 
+##### Master Thesis in [AI-Assisted Medical Triage for Resource-Limited Settings: Developing a Prototype for Nigeria](/blog_posts/MasterThesis_HassanatAwodipe.pdf)
 ##### [Windspeed Forecast in Delhi](/blog_posts/Delhi_Windspeed_Forecast.pdf)
 ##### [Automotive Industry Network Analysis](/blog_posts/Automotive_industry-Network_Analysis_upload.pdf)
 ##### [Ethical Dilemma of Advanced Technology: AI Associated Risks](/blog_posts/AI_Associated_Risks.pdf)
